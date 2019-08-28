@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Site launched"
+title: "Yayy! I launched my website!"
 date: 2019-08-28
 ---
 
-Regarding the IVRS technology used for automating calls.
+Well.  It actually is a lot easier than I thought it was going to be. :p
